@@ -5,8 +5,10 @@ public class Lab1Bai2 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+		//nhap du lieu 
 		System.out.print("Chiều dài hcn : ");
 		double chieudai = scanner.nextDouble();
+		
 		System.out.print("Chiều rộng hcn :  ");
 		double chieurong = scanner.nextDouble();
         
