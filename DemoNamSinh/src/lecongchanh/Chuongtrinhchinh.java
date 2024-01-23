@@ -1,7 +1,7 @@
-package thomc;
+package lecongchanh;
 
 import java.util.Scanner; 
-public class ChuongTrinhChinh {
+public class Chuongtrinhchinh {
 
 	public static void main(String[] args) {
 		int namSinh ; 
