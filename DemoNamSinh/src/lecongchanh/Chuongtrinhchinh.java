@@ -5,8 +5,10 @@ public class Chuongtrinhchinh {
 
 	public static void main(String[] args) {
 		int namSinh ; 
+		
 		String hoten ; 
-		//chuẩn bị nhập 
+		
+		//chuẩn bị nhập S
 		Scanner banPhim = new Scanner (System.in) ;  
 		
 		System.out.print("ho va ten ");
